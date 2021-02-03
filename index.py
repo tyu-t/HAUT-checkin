@@ -300,3 +300,5 @@ if __name__ == "__main__":
         stus.append(tmp.split(' '))
         tmp = input()
     main(stus)
+    
+    
